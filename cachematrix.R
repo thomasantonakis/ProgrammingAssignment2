@@ -45,3 +45,6 @@ cacheSolve <- function(x, ...) {
         x$setinverse(inv)
         inv
 }
+
+
+## Reviision complete. No futher changes.
