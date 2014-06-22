@@ -47,4 +47,4 @@ cacheSolve <- function(x, ...) {
 }
 
 
-## Reviision complete. No futher changes. Good Luck!
+## Reviision complete. No futher changes. Good Luck! Yay!
